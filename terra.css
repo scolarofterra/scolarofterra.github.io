@@ -1,0 +1,32 @@
+ body{
+        text-align: center;
+        
+        font-family: sans-serif;
+        background-image: url("imgs/aquila.jpg");
+      }
+     
+      p{
+        font-size: 20px;
+
+
+      }
+      li{
+        font-size: 20px;
+        color: red;
+      }
+      img{
+        height: 200px;
+
+      }
+      
+
+      .chapters{
+        height: 200px;
+        width: 200px;
+      }
+      .stc{
+        justify-content:center;
+        display: flex;
+        flex-direction: row;
+      }
+
